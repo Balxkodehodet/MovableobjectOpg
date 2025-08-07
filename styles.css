@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100svw;
+  height: 100svh;
+}
+#movable-object {
+  display: flex;
+  position: absolute;
+  width: 20%;
+  height: 20%;
+  background-color: yellow;
+}
